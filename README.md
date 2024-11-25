@@ -9,6 +9,7 @@ A modern web application for managing your Pokémon cards collection. Track your
 - 🗂️ **Card Management**: Add and track your owned Pokémon cards.
 - 🔍 **Search**: Easily find specific Pokémon using the search functionality.
 - 📊 **Booster Recommendations**: Get personalized suggestions for which booster to open based on your missing cards.
+- 📱 **Responsive Design:**: Optimized for mobile devices, ensuring a seamless user experience on any device.
 
 ---
 
@@ -18,7 +19,7 @@ A modern web application for managing your Pokémon cards collection. Track your
 - **State Management**: React Hooks
 - **Data Handling**: JavaScript, TypeScript
 - **Styling**: Styled Components for custom styles
-- **Deployment**: Vercel (or other deployment platform)
+- **Deployment**: GitHub Pages
 
 ---
 
