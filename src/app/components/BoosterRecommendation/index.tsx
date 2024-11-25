@@ -97,6 +97,8 @@ const MissingCount = styled.span`
 
 
 
+  
+
 `;
 
 const NoMissingCards = styled.div`
@@ -106,7 +108,9 @@ const NoMissingCards = styled.div`
   padding: ${getSize('base')};
 
 
-  
+
+
+
 `;
 
 type Props = {

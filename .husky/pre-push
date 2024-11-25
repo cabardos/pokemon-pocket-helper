@@ -1,0 +1,7 @@
+echo "#!/bin/sh
+. \"\$(dirname \"\$0\")/_/husky.sh\"
+
+yarn format
+" > .husky/pre-push
+
+chmod +x .husky/pre-push
