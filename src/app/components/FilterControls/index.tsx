@@ -1,10 +1,19 @@
+import { media } from '@/app/utils/media';
+import { getSize } from '@/app/utils/space';
 import { css, styled } from 'styled-components';
 
 const ButtonContainer = styled.div`
   display: flex;
-  gap: 12px;
-  margin-bottom: 16px;
+  flex-wrap: wrap;
+  gap: ${getSize('s')};
+  padding-top: ${getSize('base')};
+  padding-bottom: ${getSize('base')};
   justify-content: center;
+
+  @media ${media.tablet} {
+    margin-bottom: ${getSize('base')};
+    padding: 0;
+  }
 `;
 
 const buttonStyles = css<{ $active?: boolean }>`
@@ -13,12 +22,17 @@ const buttonStyles = css<{ $active?: boolean }>`
   border: ${(props) => (props.$active ? 'none' : '2px solid #3b4cca')};
   box-shadow: ${(props) =>
     props.$active ? '0 4px 12px rgba(59, 76, 202, 0.3)' : 'none'};
+  width: 100%;
+
+  @media ${media.tablet} {
+    width: auto;
+  }
 `;
 
 const Button = styled.button<{ $active?: boolean }>`
-  padding: 10px 24px;
+  padding: ${getSize('s')} ${getSize('l')};
   font-size: 1rem;
-  border-radius: 12px;
+  border-radius: ${getSize('s')};
   cursor: pointer;
   transition: all 0.3s;
 
@@ -30,13 +44,17 @@ const Button = styled.button<{ $active?: boolean }>`
 `;
 
 const SearchBar = styled.input`
-  padding: 12px;
-  font-size: 1rem;
-  width: 300px;
+  padding: ${getSize('s')};
+  font-size: ${getSize('base')};
   border: 2px solid #cfd8dc;
-  border-radius: 12px;
+  border-radius: ${getSize('s')};
   outline: none;
   transition: border-color 0.3s;
+  width: 100%;
+
+  @media ${media.tablet} {
+    width: 300px;
+  }
 
   &:focus {
     border-color: #3b4cca;

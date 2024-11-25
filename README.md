@@ -97,7 +97,7 @@ A modern web application for managing your Pokémon cards collection. Track your
 │   └── 📂 pokemon
 │       └── 1.png
 │   │   └── ...
-│           
+│
 └── ...
 ```
 

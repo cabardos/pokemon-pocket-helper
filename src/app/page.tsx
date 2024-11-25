@@ -7,45 +7,63 @@ import { BoosterRecommendation } from '@/app/components/BoosterRecommendation';
 import Loading from '@/app/components/Loading';
 import FilterControls from '@/app/components/FilterControls';
 import PokemonGrid from '@/app/components/PokemonGrid';
+import { media } from './utils/media';
+import { getSize } from './utils/space';
 
 const Container = styled.div`
   min-height: 100vh;
+  min-width: 100vw;
   font-family: 'Roboto', sans-serif;
   text-align: center;
-  background: #ffffff;
-  margin-bottom: 32px;
+  background: #fbfbfc;
+  margin-bottom: ${getSize('l')};
+
+  @media ${media.tablet} {
+    background: #ffffff;
+  }
 `;
 
 const BackgroundSection = styled.div`
-  position: relative;
+  padding: ${getSize('base')};
   background: linear-gradient(135deg, #3b4cca 40%, #e0f7fa 100%);
-  height: 450px;
+  height: 50px;
   clip-path: polygon(0 0, 100% 0, 100% 70%, 0 100%);
-  z-index: 1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+
+  @media ${media.tablet} {
+    background: linear-gradient(135deg, #3b4cca 40%, #e0f7fa 100%);
+    height: 450px;
+    clip-path: polygon(0 0, 100% 0, 100% 70%, 0 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 `;
 
 const Title = styled.h1`
-  font-size: 48px;
+  font-size: ${getSize('l')};
   color: #ffffff;
   margin: 0;
   text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
-  position: relative;
   z-index: 2;
+
+  @media ${media.tablet} {
+    font-size: ${getSize('3xl')};
+  }
 `;
 
 const ContentWrapper = styled.div`
   background: #fbfbfc;
-  padding: 16px;
-  border-radius: 24px;
-  margin: -150px auto 0;
-  width: 90%;
+  padding: ${getSize('base')};
   max-width: 1200px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   z-index: 2;
   position: relative;
+
+  @media ${media.tablet} {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: ${getSize('l')};
+    margin: -150px auto 0;
+    width: 90vw;
+  }
 `;
 
 const Pokedex = () => {

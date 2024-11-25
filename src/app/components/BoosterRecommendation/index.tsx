@@ -1,6 +1,8 @@
 import React, { ReactElement, useMemo } from 'react';
 import styled from 'styled-components';
 import { Pokemon } from '@/app/types/pokemon';
+import { media } from '@/app/utils/media';
+import { getSize } from '@/app/utils/space';
 
 type Props = {
   pokemons: Pokemon[];
@@ -8,28 +10,38 @@ type Props = {
 };
 
 const RecommendationContainer = styled.div`
-  border-radius: 12px;
-  padding: 16px;
+  border-radius: ${getSize('s')};
   font-family: 'Arial', sans-serif;
   text-align: center;
-  margin: 16px 0;
+
+  @media ${media.tablet} {
+    padding: ${getSize('base')};
+    margin: ${getSize('base')};
+  }
 `;
 
 const BoosterList = styled.div`
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: ${getSize('base')};
+  margin-bottom: ${getSize('base')};
+
+  @media ${media.tablet} {
+    margin: 0;
+  }
 `;
 
 const BoosterItem = styled.div`
   display: flex;
+  flex-wrap: wrap;
+  gap: ${getSize('base')};
   justify-content: space-between;
   align-items: center;
   background: #ffffff;
   border: 1px solid #e0e0e0;
-  border-radius: 8px;
-  padding: 12px 16px;
-  font-size: 16px;
+  border-radius: ${getSize('xs')};
+  padding: ${getSize('s')} ${getSize('base')};
+  font-size: ${getSize('base')};
   font-weight: 500;
   color: #333;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
@@ -51,14 +63,14 @@ const BoosterName = styled.span`
 const ProgressWrapper = styled.div`
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: ${getSize('xs')};
 `;
 
 const ProgressBar = styled.div<{ percentage: number }>`
   width: 100px;
-  height: 8px;
+  height: ${getSize('xs')};
   background: #e0e0e0;
-  border-radius: 4px;
+  border-radius: ${getSize('2xs')};
   overflow: hidden;
   position: relative;
 
@@ -75,25 +87,25 @@ const ProgressBar = styled.div<{ percentage: number }>`
 `;
 
 const PercentageText = styled.span`
-  font-size: 14px;
+  font-size: ${getSize('base')};
   color: #555;
   font-weight: bold;
 `;
 
 const MissingCount = styled.span`
   background: #f3f4f6;
-  padding: 4px 8px;
-  border-radius: 8px;
-  font-size: 14px;
+  padding: ${getSize('2xs')} ${getSize('s')};
+  border-radius: ${getSize('xs')};
+  font-size: ${getSize('base')};
   font-weight: 600;
   color: #333;
 `;
 
 const NoMissingCards = styled.div`
   color: #28a745;
-  font-size: 18px;
+  font-size: ${getSize('base')};
   font-weight: bold;
-  padding: 16px;
+  padding: ${getSize('base')};
 `;
 
 export const BoosterRecommendation = ({

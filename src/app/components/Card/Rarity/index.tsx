@@ -1,15 +1,19 @@
 import { RarityType } from '@/app/types/pokemon';
+import { media } from '@/app/utils/media';
 import { styled } from 'styled-components';
 
 const RarityContainer = styled.div`
   display: flex;
   justify-content: center;
-  margin-top: 8px;
 `;
 const RarityImage = styled.img`
-  height: 24px;
-  width: 24px;
-  margin: 0 2px;
+  height: 14px;
+  width: 14px;
+
+  @media ${media.tablet} {
+    height: 24px;
+    width: 24px;
+  }
 `;
 
 type Props = {

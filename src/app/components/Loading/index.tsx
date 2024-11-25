@@ -10,17 +10,14 @@ const rotate = keyframes`
 `;
 
 const LoadingContainer = styled.div`
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  min-width: 100vw;
 `;
 
 const LoadingCircle = styled.div`
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
   width: 60px;
   height: 60px;
   background-color: #fff;
