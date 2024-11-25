@@ -18,7 +18,7 @@ export const usePokemons = (): Response => {
   );
 
   useEffect(() => {
-    fetch('/data/pokemon_with_booster.json')
+    fetch('/pokemon-pocket-helper/data/pokemon_with_booster.json')
       .then((res) => res.json())
       .then((data) => setPokemons(data));
   }, []);

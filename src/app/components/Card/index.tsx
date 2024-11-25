@@ -92,14 +92,14 @@ const Card = ({ pokemon, isOwned, toggleOwned }: Props): ReactElement => {
     >
       <CardImageWrapper>
         <Image
-          src={isOwned ? `/pokemon/${cardNumber}.png` : '/card.jpg'}
+          src={isOwned ? `/pokemon-pocket-helper/pokemon/${cardNumber}.png` : '/pokemon-pocket-helper/card.jpg'}
           alt={name}
         />
       </CardImageWrapper>
       <CardContent>
         <NameContainer>
           <Name>{name}</Name>
-          {ex ? <ExImage src="/icons/ex.png" alt="EX" /> : null}
+          {ex ? <ExImage src="/pokemon-pocket-helper/icons/ex.png" alt="EX" /> : null}
         </NameContainer>
         <Order>
           #{cardNumber}/{CARD_MAX_NUMBER}
