@@ -2,1429 +2,2859 @@
   {
     "name": "Bulbizarre",
     "booster": "mewtwo",
-    "cardNumber": 1
+    "cardNumber": 1,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Herbizarre",
     "booster": "mewtwo",
-    "cardNumber": 2
+    "cardNumber": 2,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Florizarre",
     "booster": "mewtwo",
-    "cardNumber": 3
+    "cardNumber": 3,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Florizarre",
     "booster": "mewtwo",
-    "cardNumber": 4
+    "cardNumber": 4,
+    "ex": true,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Chenipan",
     "booster": "pikachu",
-    "cardNumber": 5
+    "cardNumber": 5,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Chrysacier",
     "booster": "pikachu",
-    "cardNumber": 6
+    "cardNumber": 6,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Papilusion",
     "booster": "pikachu",
-    "cardNumber": 7
+    "cardNumber": 7,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Aspicot",
     "booster": "mewtwo",
-    "cardNumber": 8
+    "cardNumber": 8,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Coconfort",
     "booster": "mewtwo",
-    "cardNumber": 9
+    "cardNumber": 9,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Dardargnan",
     "booster": "mewtwo",
-    "cardNumber": 10
+    "cardNumber": 10,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Mystherbe",
     "booster": "dracaufeu",
-    "cardNumber": 11
+    "cardNumber": 11,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Ortide",
     "booster": "dracaufeu",
-    "cardNumber": 12
+    "cardNumber": 12,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Rafflesia",
     "booster": "dracaufeu",
-    "cardNumber": 13
+    "cardNumber": 13,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Paras",
     "booster": "pikachu",
-    "cardNumber": 14
+    "cardNumber": 14,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Parasect",
     "booster": "pikachu",
-    "cardNumber": 15
+    "cardNumber": 15,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Mimitoss",
     "booster": "mewtwo",
-    "cardNumber": 16
+    "cardNumber": 16,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
-    "name": "A\u00e9romite",
+    "name": "Aéromite",
     "booster": "mewtwo",
-    "cardNumber": 17
+    "cardNumber": 17,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
-    "name": "Ch\u00e9tiflor",
+    "name": "Chétiflor",
     "booster": "dracaufeu",
-    "cardNumber": 18
+    "cardNumber": 18,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Boustiflor",
     "booster": "dracaufeu",
-    "cardNumber": 19
+    "cardNumber": 19,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Empiflor",
     "booster": "dracaufeu",
-    "cardNumber": 20
+    "cardNumber": 20,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Noeunoeuf",
     "booster": "dracaufeu",
-    "cardNumber": 21
+    "cardNumber": 21,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Noadkoko",
     "booster": "dracaufeu",
-    "cardNumber": 22
+    "cardNumber": 22,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Noadkoko",
     "booster": "dracaufeu",
-    "cardNumber": 23
+    "cardNumber": 23,
+    "ex": true,
+    "rarity": {
+      "type": "diamond",
+      "count": 4
+    }
   },
   {
     "name": "Saquedeneu",
     "booster": "dracaufeu",
-    "cardNumber": 24
+    "cardNumber": 24,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
-    "name": "Ins\u00e9cateur",
+    "name": "Insécateur",
     "booster": "mewtwo",
-    "cardNumber": 25
+    "cardNumber": 25,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Scarabrute",
     "booster": "dracaufeu",
-    "cardNumber": 26
+    "cardNumber": 26,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Doudouvet",
     "booster": "dracaufeu",
-    "cardNumber": 27
+    "cardNumber": 27,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Farfaduvet",
     "booster": "dracaufeu",
-    "cardNumber": 28
+    "cardNumber": 28,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Chlorobule",
     "booster": "dracaufeu",
-    "cardNumber": 29
+    "cardNumber": 29,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Fragilady",
     "booster": "dracaufeu",
-    "cardNumber": 30
+    "cardNumber": 30,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Cabriolaine",
     "booster": "dracaufeu",
-    "cardNumber": 31
+    "cardNumber": 31,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Chevroum",
     "booster": "dracaufeu",
-    "cardNumber": 32
+    "cardNumber": 32,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
-    "name": "Salam\u00e8che",
+    "name": "Salamèche",
     "booster": "dracaufeu",
-    "cardNumber": 33
+    "cardNumber": 33,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Reptincel",
     "booster": "dracaufeu",
-    "cardNumber": 34
+    "cardNumber": 34,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Dracaufeu",
     "booster": "dracaufeu",
-    "cardNumber": 35
+    "cardNumber": 35,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Dracaufeu",
     "booster": "dracaufeu",
-    "cardNumber": 36
+    "cardNumber": 36,
+    "ex": true,
+    "rarity": {
+      "type": "diamond",
+      "count": 4
+    }
   },
   {
     "name": "Goupix",
     "booster": "dracaufeu",
-    "cardNumber": 37
+    "cardNumber": 37,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Feunard",
     "booster": "dracaufeu",
-    "cardNumber": 38
+    "cardNumber": 38,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Caninos",
     "booster": "pikachu",
-    "cardNumber": 39
+    "cardNumber": 39,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Arcanin",
     "booster": "pikachu",
-    "cardNumber": 40
+    "cardNumber": 40,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Arcanin",
     "booster": "pikachu",
-    "cardNumber": 41
+    "cardNumber": 41,
+    "ex": true,
+    "rarity": {
+      "type": "diamond",
+      "count": 4
+    }
   },
   {
     "name": "Ponyta",
     "booster": "dracaufeu",
-    "cardNumber": 42
+    "cardNumber": 42,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Galopa",
     "booster": "dracaufeu",
-    "cardNumber": 43
+    "cardNumber": 43,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Magmar",
     "booster": "dracaufeu",
-    "cardNumber": 44
+    "cardNumber": 44,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Pyroli",
     "booster": "dracaufeu",
-    "cardNumber": 45
+    "cardNumber": 45,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Sulfura",
     "booster": "dracaufeu",
-    "cardNumber": 46
+    "cardNumber": 46,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Sulfura",
     "booster": "dracaufeu",
-    "cardNumber": 47
+    "cardNumber": 47,
+    "ex": true,
+    "rarity": {
+      "type": "diamond",
+      "count": 4
+    }
   },
   {
     "name": "Aflamanoir",
     "booster": "dracaufeu",
-    "cardNumber": 48
+    "cardNumber": 48,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Tritox",
     "booster": "mewtwo",
-    "cardNumber": 49
+    "cardNumber": 49,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Malamandre",
     "booster": "mewtwo",
-    "cardNumber": 50
+    "cardNumber": 50,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Grillepattes",
     "booster": "dracaufeu",
-    "cardNumber": 51
+    "cardNumber": 51,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Scolocendre",
     "booster": "dracaufeu",
-    "cardNumber": 52
+    "cardNumber": 52,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Carapuce",
     "booster": "pikachu",
-    "cardNumber": 53
+    "cardNumber": 53,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Carabaffe",
     "booster": "pikachu",
-    "cardNumber": 54
+    "cardNumber": 54,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Tortank",
     "booster": "pikachu",
-    "cardNumber": 55
+    "cardNumber": 55,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Tortank",
     "booster": "pikachu",
-    "cardNumber": 56
+    "cardNumber": 56,
+    "ex": true,
+    "rarity": {
+      "type": "diamond",
+      "count": 4
+    }
   },
   {
     "name": "Psykokwak",
     "booster": "dracaufeu",
-    "cardNumber": 57
+    "cardNumber": 57,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Akwakwak",
     "booster": "dracaufeu",
-    "cardNumber": 58
+    "cardNumber": 58,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Ptitard",
     "booster": "dracaufeu",
-    "cardNumber": 59
+    "cardNumber": 59,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
-    "name": "T\u00eatarte",
+    "name": "Têtarte",
     "booster": "dracaufeu",
-    "cardNumber": 60
+    "cardNumber": 60,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Tartard",
     "booster": "dracaufeu",
-    "cardNumber": 61
+    "cardNumber": 61,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Tentacool",
     "booster": "mewtwo",
-    "cardNumber": 62
+    "cardNumber": 62,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Tentacruel",
     "booster": "mewtwo",
-    "cardNumber": 63
+    "cardNumber": 63,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Otaria",
     "booster": "pikachu",
-    "cardNumber": 64
+    "cardNumber": 64,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Lamantine",
     "booster": "pikachu",
-    "cardNumber": 65
+    "cardNumber": 65,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Kokiyas",
     "booster": "mewtwo",
-    "cardNumber": 66
+    "cardNumber": 66,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Crustabri",
     "booster": "mewtwo",
-    "cardNumber": 67
+    "cardNumber": 67,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Krabby",
     "booster": "mewtwo",
-    "cardNumber": 68
+    "cardNumber": 68,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Krabboss",
     "booster": "mewtwo",
-    "cardNumber": 69
+    "cardNumber": 69,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Hypotrempe",
     "booster": "pikachu",
-    "cardNumber": 70
+    "cardNumber": 70,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
-    "name": "Hypoc\u00e9an",
+    "name": "Hypocéan",
     "booster": "pikachu",
-    "cardNumber": 71
+    "cardNumber": 71,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
-    "name": "Poissir\u00e8ne",
+    "name": "Poissirène",
     "booster": "pikachu",
-    "cardNumber": 72
+    "cardNumber": 72,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Poissoroy",
     "booster": "pikachu",
-    "cardNumber": 73
+    "cardNumber": 73,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Stari",
     "booster": "dracaufeu",
-    "cardNumber": 74
+    "cardNumber": 74,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Staross",
     "booster": "dracaufeu",
-    "cardNumber": 75
+    "cardNumber": 75,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Staross",
     "booster": "dracaufeu",
-    "cardNumber": 76
+    "cardNumber": 76,
+    "ex": true,
+    "rarity": {
+      "type": "diamond",
+      "count": 4
+    }
   },
   {
     "name": "Magicarpe",
     "booster": "dracaufeu",
-    "cardNumber": 77
+    "cardNumber": 77,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
-    "name": "L\u00e9viator",
+    "name": "Léviator",
     "booster": "pikachu",
-    "cardNumber": 78
+    "cardNumber": 78,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Lokhlass",
     "booster": "dracaufeu",
-    "cardNumber": 79
+    "cardNumber": 79,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Aquali",
     "booster": "mewtwo",
-    "cardNumber": 80
+    "cardNumber": 80,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Amonita",
     "booster": "pikachu",
-    "cardNumber": 81
+    "cardNumber": 81,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Amonistar",
     "booster": "pikachu",
-    "cardNumber": 82
+    "cardNumber": 82,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Artikodin",
     "booster": "mewtwo",
-    "cardNumber": 83
+    "cardNumber": 83,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Artikodin",
     "booster": "mewtwo",
-    "cardNumber": 84
+    "cardNumber": 84,
+    "ex": true,
+    "rarity": {
+      "type": "diamond",
+      "count": 4
+    }
   },
   {
     "name": "Couaneton",
     "booster": "dracaufeu",
-    "cardNumber": 85
+    "cardNumber": 85,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
-    "name": "Lakm\u00e9cygne",
+    "name": "Lakmécygne",
     "booster": "dracaufeu",
-    "cardNumber": 86
+    "cardNumber": 86,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Grenousse",
     "booster": "dracaufeu",
-    "cardNumber": 87
+    "cardNumber": 87,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
-    "name": "Cro\u00e2poral",
+    "name": "Croâporal",
     "booster": "dracaufeu",
-    "cardNumber": 88
+    "cardNumber": 88,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Amphinobi",
     "booster": "dracaufeu",
-    "cardNumber": 89
+    "cardNumber": 89,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Concombaffe",
     "booster": "dracaufeu",
-    "cardNumber": 90
+    "cardNumber": 90,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Denticrisse",
     "booster": "dracaufeu",
-    "cardNumber": 91
+    "cardNumber": 91,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Frissonille",
     "booster": "dracaufeu",
-    "cardNumber": 92
+    "cardNumber": 92,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Beldeneige",
     "booster": "dracaufeu",
-    "cardNumber": 93
+    "cardNumber": 93,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Pikachu",
     "booster": "pikachu",
-    "cardNumber": 94
+    "cardNumber": 94,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Raichu",
     "booster": "pikachu",
-    "cardNumber": 95
+    "cardNumber": 95,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Pikachu",
     "booster": "pikachu",
-    "cardNumber": 96
+    "cardNumber": 96,
+    "ex": true,
+    "rarity": {
+      "type": "diamond",
+      "count": 4
+    }
   },
   {
-    "name": "Magn\u00e9ti",
+    "name": "Magnéti",
     "booster": "pikachu",
-    "cardNumber": 97
+    "cardNumber": 97,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
-    "name": "Magn\u00e9ton",
+    "name": "Magnéton",
     "booster": "pikachu",
-    "cardNumber": 98
+    "cardNumber": 98,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Voltorbe",
     "booster": "pikachu",
-    "cardNumber": 99
+    "cardNumber": 99,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
-    "name": "\u00c9lectrode",
+    "name": "Électrode",
     "booster": "pikachu",
-    "cardNumber": 100
+    "cardNumber": 100,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
-    "name": "\u00c9lektek",
+    "name": "Élektek",
     "booster": "pikachu",
-    "cardNumber": 101
+    "cardNumber": 101,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Voltali",
     "booster": "pikachu",
-    "cardNumber": 102
+    "cardNumber": 102,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
-    "name": "\u00c9lecthor",
+    "name": "Électhor",
     "booster": "pikachu",
-    "cardNumber": 103
+    "cardNumber": 103,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
-    "name": "\u00c9lecthor",
+    "name": "Électhor",
     "booster": "pikachu",
-    "cardNumber": 104
+    "cardNumber": 104,
+    "ex": true,
+    "rarity": {
+      "type": "diamond",
+      "count": 4
+    }
   },
   {
-    "name": "Z\u00e9bibron",
+    "name": "Zébibron",
     "booster": "dracaufeu",
-    "cardNumber": 105
+    "cardNumber": 105,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
-    "name": "Z\u00e9blitz",
+    "name": "Zéblitz",
     "booster": "dracaufeu",
-    "cardNumber": 106
+    "cardNumber": 106,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Anchwatt",
     "booster": "mewtwo",
-    "cardNumber": 107
+    "cardNumber": 107,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
-    "name": "Lamp\u00e9roie",
+    "name": "Lampéroie",
     "booster": "mewtwo",
-    "cardNumber": 108
+    "cardNumber": 108,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Ohmassacre",
     "booster": "mewtwo",
-    "cardNumber": 109
+    "cardNumber": 109,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Galvaran",
     "booster": "dracaufeu",
-    "cardNumber": 110
+    "cardNumber": 110,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Iguolta",
     "booster": "dracaufeu",
-    "cardNumber": 111
+    "cardNumber": 111,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Wattapik",
     "booster": "dracaufeu",
-    "cardNumber": 112
+    "cardNumber": 112,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
-    "name": "M\u00e9lof\u00e9e",
+    "name": "Mélofée",
     "booster": "pikachu",
-    "cardNumber": 113
+    "cardNumber": 113,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
-    "name": "M\u00e9lodelfe",
+    "name": "Mélodelfe",
     "booster": "pikachu",
-    "cardNumber": 114
+    "cardNumber": 114,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Abra",
     "booster": "dracaufeu",
-    "cardNumber": 115
+    "cardNumber": 115,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Kadabra",
     "booster": "dracaufeu",
-    "cardNumber": 116
+    "cardNumber": 116,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Alakazam",
     "booster": "dracaufeu",
-    "cardNumber": 117
+    "cardNumber": 117,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Ramoloss",
     "booster": "dracaufeu",
-    "cardNumber": 118
+    "cardNumber": 118,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Flagadoss",
     "booster": "dracaufeu",
-    "cardNumber": 119
+    "cardNumber": 119,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Fantominus",
     "booster": "mewtwo",
-    "cardNumber": 120
+    "cardNumber": 120,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Spectrum",
     "booster": "mewtwo",
-    "cardNumber": 121
+    "cardNumber": 121,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Ectoplasma",
     "booster": "mewtwo",
-    "cardNumber": 122
+    "cardNumber": 122,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Ectoplasma",
     "booster": "mewtwo",
-    "cardNumber": 123
+    "cardNumber": 123,
+    "ex": true,
+    "rarity": {
+      "type": "diamond",
+      "count": 4
+    }
   },
   {
     "name": "Soporifik",
     "booster": "pikachu",
-    "cardNumber": 124
+    "cardNumber": 124,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Hypnomade",
     "booster": "pikachu",
-    "cardNumber": 125
+    "cardNumber": 125,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "M. Mime",
     "booster": "mewtwo",
-    "cardNumber": 126
+    "cardNumber": 126,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Lippoutou",
     "booster": "mewtwo",
-    "cardNumber": 127
+    "cardNumber": 127,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Mewtwo",
     "booster": "mewtwo",
-    "cardNumber": 128
+    "cardNumber": 128,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Mewtwo",
     "booster": "mewtwo",
-    "cardNumber": 129
+    "cardNumber": 129,
+    "ex": true,
+    "rarity": {
+      "type": "diamond",
+      "count": 4
+    }
   },
   {
     "name": "Tarsal",
     "booster": "mewtwo",
-    "cardNumber": 130
+    "cardNumber": 130,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Kirlia",
     "booster": "mewtwo",
-    "cardNumber": 131
+    "cardNumber": 131,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Gardevoir",
     "booster": "mewtwo",
-    "cardNumber": 132
+    "cardNumber": 132,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Chovsourir",
     "booster": "dracaufeu",
-    "cardNumber": 133
+    "cardNumber": 133,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Rhinolove",
     "booster": "dracaufeu",
-    "cardNumber": 134
+    "cardNumber": 134,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Gringolem",
     "booster": "dracaufeu",
-    "cardNumber": 135
+    "cardNumber": 135,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Golemastoc",
     "booster": "dracaufeu",
-    "cardNumber": 136
+    "cardNumber": 136,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Sabelette",
     "booster": "dracaufeu",
-    "cardNumber": 137
+    "cardNumber": 137,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Sablaireau",
     "booster": "dracaufeu",
-    "cardNumber": 138
+    "cardNumber": 138,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Taupiqueur",
     "booster": "pikachu",
-    "cardNumber": 139
+    "cardNumber": 139,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Triopikeur",
     "booster": "pikachu",
-    "cardNumber": 140
+    "cardNumber": 140,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
-    "name": "F\u00e9rosinge",
+    "name": "Férosinge",
     "booster": "dracaufeu",
-    "cardNumber": 141
+    "cardNumber": 141,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Colossinge",
     "booster": "dracaufeu",
-    "cardNumber": 142
+    "cardNumber": 142,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Machoc",
     "booster": "dracaufeu",
-    "cardNumber": 143
+    "cardNumber": 143,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Machopeur",
     "booster": "dracaufeu",
-    "cardNumber": 144
+    "cardNumber": 144,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Mackogneur",
     "booster": "dracaufeu",
-    "cardNumber": 145
+    "cardNumber": 145,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Mackogneur",
     "booster": "dracaufeu",
-    "cardNumber": 146
+    "cardNumber": 146,
+    "ex": true,
+    "rarity": {
+      "type": "diamond",
+      "count": 4
+    }
   },
   {
     "name": "Racaillou",
     "booster": "pikachu",
-    "cardNumber": 147
+    "cardNumber": 147,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Gravalanch",
     "booster": "pikachu",
-    "cardNumber": 148
+    "cardNumber": 148,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Grolem",
     "booster": "pikachu",
-    "cardNumber": 149
+    "cardNumber": 149,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Onix",
     "booster": "pikachu",
-    "cardNumber": 150
+    "cardNumber": 150,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Osselait",
     "booster": "mewtwo",
-    "cardNumber": 151
+    "cardNumber": 151,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Ossatueur",
     "booster": "mewtwo",
-    "cardNumber": 152
+    "cardNumber": 152,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Ossatueur",
     "booster": "mewtwo",
-    "cardNumber": 153
+    "cardNumber": 153,
+    "ex": true,
+    "rarity": {
+      "type": "diamond",
+      "count": 4
+    }
   },
   {
     "name": "Kicklee",
     "booster": "mewtwo",
-    "cardNumber": 154
+    "cardNumber": 154,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Tygnon",
     "booster": "dracaufeu",
-    "cardNumber": 155
+    "cardNumber": 155,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Rhinocorne",
     "booster": "mewtwo",
-    "cardNumber": 156
+    "cardNumber": 156,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
-    "name": "Rhinof\u00e9ros",
+    "name": "Rhinoféros",
     "booster": "mewtwo",
-    "cardNumber": 157
+    "cardNumber": 157,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Kabuto",
     "booster": "dracaufeu",
-    "cardNumber": 158
+    "cardNumber": 158,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Kabutops",
     "booster": "dracaufeu",
-    "cardNumber": 159
+    "cardNumber": 159,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Kungfouine",
     "booster": "pikachu",
-    "cardNumber": 160
+    "cardNumber": 160,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Shaofouine",
     "booster": "pikachu",
-    "cardNumber": 161
+    "cardNumber": 161,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Poulpaf",
     "booster": "dracaufeu",
-    "cardNumber": 162
+    "cardNumber": 162,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Krakos",
     "booster": "dracaufeu",
-    "cardNumber": 163
+    "cardNumber": 163,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Abo",
     "booster": "dracaufeu",
-    "cardNumber": 164
+    "cardNumber": 164,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Arbok",
     "booster": "dracaufeu",
-    "cardNumber": 165
+    "cardNumber": 165,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
-    "name": "Nidoran\u2640",
+    "name": "Nidoran♀",
     "booster": "pikachu",
-    "cardNumber": 166
+    "cardNumber": 166,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Nidorina",
     "booster": "pikachu",
-    "cardNumber": 167
+    "cardNumber": 167,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Nidoqueen",
     "booster": "pikachu",
-    "cardNumber": 168
+    "cardNumber": 168,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
-    "name": "Nidoran\u2642",
+    "name": "Nidoran♂",
     "booster": "pikachu",
-    "cardNumber": 169
+    "cardNumber": 169,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Nidorino",
     "booster": "pikachu",
-    "cardNumber": 170
+    "cardNumber": 170,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Nidoking",
     "booster": "pikachu",
-    "cardNumber": 171
+    "cardNumber": 171,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Nosferapti",
     "booster": "mewtwo",
-    "cardNumber": 172
+    "cardNumber": 172,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Nosferalto",
     "booster": "mewtwo",
-    "cardNumber": 173
+    "cardNumber": 173,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Tadmorv",
     "booster": "mewtwo",
-    "cardNumber": 174
+    "cardNumber": 174,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Grotadmorv",
     "booster": "mewtwo",
-    "cardNumber": 175
+    "cardNumber": 175,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Smogo",
     "booster": "mewtwo",
-    "cardNumber": 176
+    "cardNumber": 176,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Smogogo",
     "booster": "mewtwo",
-    "cardNumber": 177
+    "cardNumber": 177,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Mysdibule",
     "booster": "dracaufeu",
-    "cardNumber": 178
+    "cardNumber": 178,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Scalpion",
     "booster": "dracaufeu",
-    "cardNumber": 179
+    "cardNumber": 179,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Scalproie",
     "booster": "dracaufeu",
-    "cardNumber": 180
+    "cardNumber": 180,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Meltan",
     "booster": "dracaufeu",
-    "cardNumber": 181
+    "cardNumber": 181,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Melmetal",
     "booster": "dracaufeu",
-    "cardNumber": 182
+    "cardNumber": 182,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Minidraco",
     "booster": "mewtwo",
-    "cardNumber": 183
+    "cardNumber": 183,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Draco",
     "booster": "mewtwo",
-    "cardNumber": 184
+    "cardNumber": 184,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Dracolosse",
     "booster": "mewtwo",
-    "cardNumber": 185
+    "cardNumber": 185,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Roucool",
     "booster": "mewtwo",
-    "cardNumber": 186
+    "cardNumber": 186,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Roucoups",
     "booster": "mewtwo",
-    "cardNumber": 187
+    "cardNumber": 187,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Roucarnage",
     "booster": "mewtwo",
-    "cardNumber": 188
+    "cardNumber": 188,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Rattata",
     "booster": "dracaufeu",
-    "cardNumber": 189
+    "cardNumber": 189,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Rattatac",
     "booster": "dracaufeu",
-    "cardNumber": 190
+    "cardNumber": 190,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Piafabec",
     "booster": "dracaufeu",
-    "cardNumber": 191
+    "cardNumber": 191,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Rapasdepic",
     "booster": "dracaufeu",
-    "cardNumber": 192
+    "cardNumber": 192,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Rondoudou",
     "booster": "pikachu",
-    "cardNumber": 193
+    "cardNumber": 193,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Grodoudou",
     "booster": "pikachu",
-    "cardNumber": 194
+    "cardNumber": 194,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Grodoudou",
     "booster": "pikachu",
-    "cardNumber": 195
+    "cardNumber": 195,
+    "ex": true,
+    "rarity": {
+      "type": "diamond",
+      "count": 4
+    }
   },
   {
     "name": "Miaouss",
     "booster": "dracaufeu",
-    "cardNumber": 196
+    "cardNumber": 196,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Persian",
     "booster": "dracaufeu",
-    "cardNumber": 197
+    "cardNumber": 197,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Canarticho",
     "booster": "dracaufeu",
-    "cardNumber": 198
+    "cardNumber": 198,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Doduo",
     "booster": "dracaufeu",
-    "cardNumber": 199
+    "cardNumber": 199,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Dodrio",
     "booster": "dracaufeu",
-    "cardNumber": 200
+    "cardNumber": 200,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Excelangue",
     "booster": "mewtwo",
-    "cardNumber": 201
+    "cardNumber": 201,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Leveinard",
     "booster": "pikachu",
-    "cardNumber": 202
+    "cardNumber": 202,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Kangourex",
     "booster": "dracaufeu",
-    "cardNumber": 203
+    "cardNumber": 203,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Tauros",
     "booster": "dracaufeu",
-    "cardNumber": 204
+    "cardNumber": 204,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
-    "name": "M\u00e9tamorph",
+    "name": "Métamorph",
     "booster": "mewtwo",
-    "cardNumber": 205
+    "cardNumber": 205,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
-    "name": "\u00c9voli",
+    "name": "Évoli",
     "booster": "dracaufeu",
-    "cardNumber": 206
+    "cardNumber": 206,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
-    "name": "\u00c9voli",
+    "name": "Évoli",
     "booster": "mewtwo",
-    "cardNumber": 207
+    "cardNumber": 207,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
-    "name": "\u00c9voli",
+    "name": "Évoli",
     "booster": "pikachu",
-    "cardNumber": 208
+    "cardNumber": 208,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Porygon",
     "booster": "mewtwo",
-    "cardNumber": 209
+    "cardNumber": 209,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
-    "name": "Pt\u00e9ra",
+    "name": "Ptéra",
     "booster": "mewtwo",
-    "cardNumber": 210
+    "cardNumber": 210,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Ronflex",
-    "cardNumber": 211
+    "cardNumber": 211,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 3
+    }
   },
   {
     "name": "Chinchidou",
     "booster": "dracaufeu",
-    "cardNumber": 212
+    "cardNumber": 212,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Pashmilla",
     "booster": "dracaufeu",
-    "cardNumber": 213
+    "cardNumber": 213,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Moumouton",
     "booster": "dracaufeu",
-    "cardNumber": 214
+    "cardNumber": 214,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Moumouflon",
     "booster": "dracaufeu",
-    "cardNumber": 215
+    "cardNumber": 215,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Fossile Nautile",
     "booster": "pikachu",
-    "cardNumber": 216
+    "cardNumber": 216,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
-    "name": "Fossile D\u00f4me",
+    "name": "Fossile Dôme",
     "booster": "dracaufeu",
-    "cardNumber": 217
+    "cardNumber": 217,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Vieil Ambre",
     "booster": "mewtwo",
-    "cardNumber": 218
+    "cardNumber": 218,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 1
+    }
   },
   {
     "name": "Erika",
     "booster": "dracaufeu",
-    "cardNumber": 219
+    "cardNumber": 219,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Ondine",
     "booster": "pikachu",
-    "cardNumber": 220
+    "cardNumber": 220,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Auguste",
     "booster": "dracaufeu",
-    "cardNumber": 221
+    "cardNumber": 221,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Koga",
     "booster": "mewtwo",
-    "cardNumber": 222
+    "cardNumber": 222,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Giovanni",
     "booster": "mewtwo",
-    "cardNumber": 223
+    "cardNumber": 223,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Pierre",
     "booster": "pikachu",
-    "cardNumber": 224
+    "cardNumber": 224,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Morgane",
     "booster": "dracaufeu",
-    "cardNumber": 225
+    "cardNumber": 225,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Major Bob",
     "booster": "pikachu",
-    "cardNumber": 226
+    "cardNumber": 226,
+    "ex": false,
+    "rarity": {
+      "type": "diamond",
+      "count": 2
+    }
   },
   {
     "name": "Bulbizarre",
     "booster": "mewtwo",
-    "cardNumber": 227
+    "cardNumber": 227,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Ortide",
     "booster": "dracaufeu",
-    "cardNumber": 228
+    "cardNumber": 228,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Scarabrute",
     "booster": "dracaufeu",
-    "cardNumber": 229
+    "cardNumber": 229,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
-    "name": "Salam\u00e8che",
+    "name": "Salamèche",
     "booster": "dracaufeu",
-    "cardNumber": 230
+    "cardNumber": 230,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Galopa",
     "booster": "dracaufeu",
-    "cardNumber": 231
+    "cardNumber": 231,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Carapuce",
     "booster": "pikachu",
-    "cardNumber": 232
+    "cardNumber": 232,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
-    "name": "L\u00e9viator",
+    "name": "Léviator",
     "booster": "pikachu",
-    "cardNumber": 233
+    "cardNumber": 233,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Lokhlass",
     "booster": "dracaufeu",
-    "cardNumber": 234
+    "cardNumber": 234,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
-    "name": "\u00c9lectrode",
+    "name": "Électrode",
     "booster": "pikachu",
-    "cardNumber": 235
+    "cardNumber": 235,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Alakazam",
     "booster": "dracaufeu",
-    "cardNumber": 236
+    "cardNumber": 236,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Ramoloss",
     "booster": "dracaufeu",
-    "cardNumber": 237
+    "cardNumber": 237,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Taupiqueur",
     "booster": "pikachu",
-    "cardNumber": 238
+    "cardNumber": 238,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Osselait",
     "booster": "mewtwo",
-    "cardNumber": 239
+    "cardNumber": 239,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Nidoqueen",
     "booster": "pikachu",
-    "cardNumber": 240
+    "cardNumber": 240,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Nidoking",
     "booster": "pikachu",
-    "cardNumber": 241
+    "cardNumber": 241,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Nosferalto",
     "booster": "mewtwo",
-    "cardNumber": 242
+    "cardNumber": 242,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Smogogo",
     "booster": "mewtwo",
-    "cardNumber": 243
+    "cardNumber": 243,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Dracolosse",
     "booster": "mewtwo",
-    "cardNumber": 244
+    "cardNumber": 244,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Roucarnage",
     "booster": "mewtwo",
-    "cardNumber": 245
+    "cardNumber": 245,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Miaouss",
     "booster": "dracaufeu",
-    "cardNumber": 246
+    "cardNumber": 246,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
-    "name": "M\u00e9tamorph",
+    "name": "Métamorph",
     "booster": "mewtwo",
-    "cardNumber": 247
+    "cardNumber": 247,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
-    "name": "\u00c9voli",
+    "name": "Évoli",
     "booster": "pikachu",
-    "cardNumber": 248
+    "cardNumber": 248,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Porygon",
     "booster": "mewtwo",
-    "cardNumber": 249
+    "cardNumber": 249,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Ronflex",
     "booster": "pikachu",
-    "cardNumber": 250
+    "cardNumber": 250,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 1
+    }
   },
   {
     "name": "Florizarre",
     "booster": "mewtwo",
-    "cardNumber": 251
+    "cardNumber": 251,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Noadkoko",
     "booster": "dracaufeu",
-    "cardNumber": 252
+    "cardNumber": 252,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Dracaufeu",
     "booster": "dracaufeu",
-    "cardNumber": 253
+    "cardNumber": 253,
+    "ex": true,
+    "rarity": {
+      "type": "crown",
+      "count": 1
+    }
   },
   {
     "name": "Arcanin",
     "booster": "pikachu",
-    "cardNumber": 254
+    "cardNumber": 254,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Sulfura",
     "booster": "dracaufeu",
-    "cardNumber": 255
+    "cardNumber": 255,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Tortank",
     "booster": "pikachu",
-    "cardNumber": 256
+    "cardNumber": 256,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Staross",
     "booster": "dracaufeu",
-    "cardNumber": 257
+    "cardNumber": 257,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Artikodin",
     "booster": "mewtwo",
-    "cardNumber": 258
+    "cardNumber": 258,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Pikachu",
     "booster": "pikachu",
-    "cardNumber": 259
+    "cardNumber": 259,
+    "ex": true,
+    "rarity": {
+      "type": "crown",
+      "count": 1
+    }
   },
   {
-    "name": "\u00c9lecthor",
+    "name": "Électhor",
     "booster": "pikachu",
-    "cardNumber": 260
+    "cardNumber": 260,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Ectoplasma",
     "booster": "mewtwo",
-    "cardNumber": 261
+    "cardNumber": 261,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Mewtwo",
     "booster": "mewtwo",
-    "cardNumber": 262
+    "cardNumber": 262,
+    "ex": true,
+    "rarity": {
+      "type": "crown",
+      "count": 1
+    }
   },
   {
     "name": "Mackogneur",
     "booster": "dracaufeu",
-    "cardNumber": 263
+    "cardNumber": 263,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Ossatueur",
     "booster": "mewtwo",
-    "cardNumber": 264
+    "cardNumber": 264,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Grodoudou",
     "booster": "pikachu",
-    "cardNumber": 265
+    "cardNumber": 265,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Erika",
     "booster": "dracaufeu",
-    "cardNumber": 266
+    "cardNumber": 266,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Ondine",
     "booster": "pikachu",
-    "cardNumber": 267
+    "cardNumber": 267,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Auguste",
     "booster": "dracaufeu",
-    "cardNumber": 268
+    "cardNumber": 268,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Koga",
     "booster": "mewtwo",
-    "cardNumber": 269
+    "cardNumber": 269,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Giovanni",
     "booster": "mewtwo",
-    "cardNumber": 270
+    "cardNumber": 270,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Pierre",
     "booster": "pikachu",
-    "cardNumber": 271
+    "cardNumber": 271,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Morgane",
     "booster": "dracaufeu",
-    "cardNumber": 272
+    "cardNumber": 272,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Major Bob",
     "booster": "pikachu",
-    "cardNumber": 273
+    "cardNumber": 273,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Sulfura",
     "booster": "dracaufeu",
-    "cardNumber": 274
+    "cardNumber": 274,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Artikodin",
     "booster": "mewtwo",
-    "cardNumber": 275
+    "cardNumber": 275,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
-    "name": "\u00c9lecthor",
+    "name": "Électhor",
     "booster": "pikachu",
-    "cardNumber": 276
+    "cardNumber": 276,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Ectoplasma",
     "booster": "mewtwo",
-    "cardNumber": 277
+    "cardNumber": 277,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Mackogneur",
     "booster": "dracaufeu",
-    "cardNumber": 278
+    "cardNumber": 278,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Grodoudou",
     "booster": "pikachu",
-    "cardNumber": 279
+    "cardNumber": 279,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 2
+    }
   },
   {
     "name": "Dracaufeu",
     "booster": "dracaufeu",
-    "cardNumber": 280
+    "cardNumber": 280,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 3
+    }
   },
   {
     "name": "Pikachu",
     "booster": "pikachu",
-    "cardNumber": 281
+    "cardNumber": 281,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 3
+    }
   },
   {
     "name": "Mewtwo",
     "booster": "mewtwo",
-    "cardNumber": 282
+    "cardNumber": 282,
+    "ex": true,
+    "rarity": {
+      "type": "star",
+      "count": 3
+    }
   },
   {
     "name": "Mew",
-    "cardNumber": 283
+    "cardNumber": 283,
+    "ex": false,
+    "rarity": {
+      "type": "star",
+      "count": 3
+    }
   },
   {
     "name": "Dracaufeu",
     "booster": "dracaufeu",
-    "cardNumber": 284
+    "cardNumber": 284,
+    "ex": true,
+    "rarity": {
+      "type": "crown",
+      "count": 1
+    }
   },
   {
     "name": "Pikachu",
     "booster": "dracaufeu",
-    "cardNumber": 285
+    "cardNumber": 285,
+    "ex": true,
+    "rarity": {
+      "type": "crown",
+      "count": 1
+    }
   },
   {
     "name": "Mewtwo",
     "booster": "dracaufeu",
-    "cardNumber": 286
+    "cardNumber": 286,
+    "ex": true,
+    "rarity": {
+      "type": "crown",
+      "count": 1
+    }
   }
 ]
