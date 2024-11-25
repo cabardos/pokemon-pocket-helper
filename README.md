@@ -6,6 +6,10 @@ A modern web application for managing your Pokémon cards collection. Track your
 
 ## **Features**
 
+![Screenshot 2024-11-25 at 18 36 46](https://github.com/user-attachments/assets/c95d6581-b62c-4891-a44e-f0e728b68be0)
+
+
+
 - 🗂️ **Card Management**: Add and track your owned Pokémon cards.
 - 🔍 **Search**: Easily find specific Pokémon using the search functionality.
 - 📊 **Booster Recommendations**: Get personalized suggestions for which booster to open based on your missing cards.
