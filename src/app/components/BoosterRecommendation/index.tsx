@@ -94,11 +94,6 @@ const MissingCount = styled.span`
   font-size: ${getSize('s')};
   font-weight: 600;
   color: #333;
-
-
-
-  
-
 `;
 
 const NoMissingCards = styled.div`
@@ -106,11 +101,6 @@ const NoMissingCards = styled.div`
   font-size: ${getSize('base')};
   font-weight: bold;
   padding: ${getSize('base')};
-
-
-
-
-
 `;
 
 type Props = {
@@ -173,6 +163,9 @@ export const BoosterRecommendation = ({
               </BoosterItem>
             );
           })}
+
+
+          
         </BoosterList>
       )}
     </RecommendationContainer>
