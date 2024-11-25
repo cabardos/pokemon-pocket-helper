@@ -4,11 +4,6 @@ import { Pokemon } from '@/app/types/pokemon';
 import { media } from '@/app/utils/media';
 import { getSize } from '@/app/utils/space';
 
-type Props = {
-  pokemons: Pokemon[];
-  ownedCards: number[];
-};
-
 const RecommendationContainer = styled.div`
   border-radius: ${getSize('s')};
   font-family: 'Arial', sans-serif;
@@ -66,7 +61,7 @@ const ProgressWrapper = styled.div`
   gap: ${getSize('xs')};
 `;
 
-const ProgressBar = styled.div<{ percentage: number }>`
+const ProgressBar = styled.div<{ $percentage: number }>`
   width: 100px;
   height: ${getSize('xs')};
   background: #e0e0e0;
@@ -80,14 +75,14 @@ const ProgressBar = styled.div<{ percentage: number }>`
     top: 0;
     left: 0;
     height: 100%;
-    width: ${(props) => props.percentage}%;
+    width: ${(props) => props.$percentage}%;
     background: #007bff;
     transition: width 0.3s ease-in-out;
   }
 `;
 
 const PercentageText = styled.span`
-  font-size: ${getSize('base')};
+  font-size: ${getSize('s')};
   color: #555;
   font-weight: bold;
 `;
@@ -96,9 +91,12 @@ const MissingCount = styled.span`
   background: #f3f4f6;
   padding: ${getSize('2xs')} ${getSize('s')};
   border-radius: ${getSize('xs')};
-  font-size: ${getSize('base')};
+  font-size: ${getSize('s')};
   font-weight: 600;
   color: #333;
+
+
+
 `;
 
 const NoMissingCards = styled.div`
@@ -106,7 +104,15 @@ const NoMissingCards = styled.div`
   font-size: ${getSize('base')};
   font-weight: bold;
   padding: ${getSize('base')};
+
+
+  
 `;
+
+type Props = {
+  pokemons: Pokemon[];
+  ownedCards: number[];
+};
 
 export const BoosterRecommendation = ({
   pokemons,
@@ -153,7 +159,7 @@ export const BoosterRecommendation = ({
               <BoosterItem key={booster}>
                 <BoosterName>Booster {booster}</BoosterName>
                 <ProgressWrapper>
-                  <ProgressBar percentage={percentageOwned} />
+                  <ProgressBar $percentage={percentageOwned} />
                   <PercentageText>{percentageOwned}% possédées</PercentageText>
                 </ProgressWrapper>
                 <MissingCount>

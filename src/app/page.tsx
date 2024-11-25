@@ -24,7 +24,7 @@ const Container = styled.div`
 `;
 
 const BackgroundSection = styled.div`
-  padding: ${getSize('base')};
+  padding: ${getSize('l')};
   background: linear-gradient(135deg, #3b4cca 40%, #e0f7fa 100%);
   height: 50px;
   clip-path: polygon(0 0, 100% 0, 100% 70%, 0 100%);
