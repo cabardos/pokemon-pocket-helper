@@ -163,9 +163,6 @@ export const BoosterRecommendation = ({
               </BoosterItem>
             );
           })}
-
-
-          
         </BoosterList>
       )}
     </RecommendationContainer>
