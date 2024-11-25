@@ -69,22 +69,35 @@ A modern web application for managing your Pokémon cards collection. Track your
 📁 src
 ├── 📂 app
 │   ├── 📂 components
-│   │   ├── BoosterRecommendation
+│   │   ├── 📂 BoosterRecommendation
 │   │   │   └── index.tsx
-│   │   ├── Card
+│   │   ├── 📂 Card
 │   │   │   └── index.tsx
-│   │   ├── Loading
+│   │   │   └── 📂 Rarity
+│   │   │       └── index.tsx
+│   │   ├── 📂 Loading
+│   │   │   └── index.tsx
+│   │   ├── 📂 FilterControls
+│   │   │   └── index.tsx
+│   │   ├── 📂 PokemonGrid
 │   │   │   └── index.tsx
 │   │   └── ...
 │   ├── 📂 hooks
 │   │   └── usePokemons.ts
-│   ├── 📂 pages
-│   │   └── index.tsx
+│   ├── 📂 types
+│   │   └── pokemon.ts
+│   ├── 📂 utils
+│   │   └── ...
 │   └── ...
 ├── 📂 public
-│   └── 📂 image
-│       └── 📂 pokemon
-│           └── ...
+│   └── 📂 data
+│   │   └── pokemon_with_booster.json
+│   └── 📂 icons
+│   │   └── ...
+│   └── 📂 pokemon
+│       └── 1.png
+│   │   └── ...
+│           
 └── ...
 ```
 
