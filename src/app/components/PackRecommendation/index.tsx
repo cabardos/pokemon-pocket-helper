@@ -15,7 +15,7 @@ const RecommendationContainer = styled.div`
   }
 `;
 
-const BoosterList = styled.div`
+const PackList = styled.div`
   display: flex;
   flex-direction: column;
   gap: ${getSize('base')};
@@ -26,7 +26,7 @@ const BoosterList = styled.div`
   }
 `;
 
-const BoosterItem = styled.div`
+const PackItem = styled.div`
   display: flex;
   flex-wrap: wrap;
   gap: ${getSize('base')};
@@ -50,7 +50,7 @@ const BoosterItem = styled.div`
   }
 `;
 
-const BoosterName = styled.span`
+const PackName = styled.span`
   color: #007bff;
   font-weight: bold;
 `;
@@ -108,50 +108,50 @@ type Props = {
   ownedCards: number[];
 };
 
-export const BoosterRecommendation = ({
+export const PackRecommendation = ({
   pokemons,
   ownedCards,
 }: Props): ReactElement => {
-  const boosterData = useMemo(() => {
-    const boosterCounts = pokemons.reduce<
+  const packData = useMemo(() => {
+    const packCounts = pokemons.reduce<
       Record<string, { total: number; missing: number; owned: number }>
     >((acc, pokemon) => {
-      const booster = pokemon.booster;
+      const { pack } = pokemon;
 
-      if (!booster) return acc;
+      if (!pack) return acc;
 
-      if (!acc[booster]) {
-        acc[booster] = { total: 0, missing: 0, owned: 0 };
+      if (!acc[pack]) {
+        acc[pack] = { total: 0, missing: 0, owned: 0 };
       }
 
-      acc[booster].total += 1;
+      acc[pack].total += 1;
 
       if (!ownedCards.includes(pokemon.cardNumber)) {
-        acc[booster].missing += 1;
+        acc[pack].missing += 1;
       } else {
-        acc[booster].owned += 1;
+        acc[pack].owned += 1;
       }
 
       return acc;
     }, {});
 
-    return Object.entries(boosterCounts).sort(
+    return Object.entries(packCounts).sort(
       ([, a], [, b]) => b.missing - a.missing
     );
   }, [pokemons, ownedCards]);
 
   return (
     <RecommendationContainer>
-      {boosterData.length === 0 ? (
+      {packData.length === 0 ? (
         <NoMissingCards>Vous avez toutes les cartes ! 🎉</NoMissingCards>
       ) : (
-        <BoosterList>
-          {boosterData.map(([booster, { total, missing, owned }]) => {
+        <PackList>
+          {packData.map(([pack, { total, missing, owned }]) => {
             const percentageOwned = Math.round((owned / total) * 100);
 
             return (
-              <BoosterItem key={booster}>
-                <BoosterName>Booster {booster}</BoosterName>
+              <PackItem key={pack}>
+                <PackName>{pack}</PackName>
                 <ProgressWrapper>
                   <ProgressBar $percentage={percentageOwned} />
                   <PercentageText>{percentageOwned}% possédées</PercentageText>
@@ -160,10 +160,10 @@ export const BoosterRecommendation = ({
                   {missing}{' '}
                   {missing > 1 ? 'cartes manquantes' : 'carte manquante'}
                 </MissingCount>
-              </BoosterItem>
+              </PackItem>
             );
           })}
-        </BoosterList>
+        </PackList>
       )}
     </RecommendationContainer>
   );

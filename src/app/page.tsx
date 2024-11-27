@@ -3,7 +3,7 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import styled from 'styled-components';
 import { usePokemons } from '@/app/hooks/usePokemons';
-import { BoosterRecommendation } from '@/app/components/BoosterRecommendation';
+import { PackRecommendation } from '@/app/components/PackRecommendation';
 import Loading from '@/app/components/Loading';
 import FilterControls from '@/app/components/FilterControls';
 import PokemonGrid from '@/app/components/PokemonGrid';
@@ -104,10 +104,7 @@ const Pokedex = () => {
         <Title>Pokedex Genetic Apex</Title>
       </BackgroundSection>
       <ContentWrapper>
-        <BoosterRecommendation
-          pokemons={pokemons}
-          ownedCards={ownedCards ?? []}
-        />
+        <PackRecommendation pokemons={pokemons} ownedCards={ownedCards ?? []} />
         <FilterControls
           showOnlyNotOwned={showOnlyNotOwned}
           setShowOnlyNotOwned={setShowOnlyNotOwned}

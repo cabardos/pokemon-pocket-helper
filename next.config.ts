@@ -5,8 +5,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/pokemon-pocket-helper',
-  assetPrefix: '/pokemon-pocket-helper/',
+  basePath: '/pokemon-tcg-pocket-deckmaster',
+  assetPrefix: '/pokemon-tcg-pocket-deckmaster/',
 };
 
 export default nextConfig;

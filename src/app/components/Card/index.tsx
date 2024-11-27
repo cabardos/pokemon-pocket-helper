@@ -115,8 +115,8 @@ const Card = ({ pokemon, isOwned, toggleOwned }: Props): ReactElement => {
         <Image
           src={
             isOwned
-              ? `/pokemon-pocket-helper/pokemon/${cardNumber}.png`
-              : '/pokemon-pocket-helper/card.jpg'
+              ? `/pokemon-tcg-pocket-deckmaster/pokemon/${cardNumber}.png`
+              : '/pokemon-tcg-pocket-deckmaster/card.jpg'
           }
           alt={name}
         />
@@ -125,7 +125,10 @@ const Card = ({ pokemon, isOwned, toggleOwned }: Props): ReactElement => {
         <NameContainer>
           <Name>{name}</Name>
           {ex ? (
-            <ExImage src="/pokemon-pocket-helper/icons/ex.png" alt="EX" />
+            <ExImage
+              src="/pokemon-tcg-pocket-deckmaster/icons/ex.png"
+              alt="EX"
+            />
           ) : null}
         </NameContainer>
         <Order>

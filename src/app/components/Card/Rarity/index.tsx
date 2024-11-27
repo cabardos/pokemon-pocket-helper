@@ -22,9 +22,9 @@ type Props = {
 };
 
 const rarityIcons: Record<string, string> = {
-  [RarityType.DIAMOND]: '/pokemon-pocket-helper/icons/diamond.png',
-  [RarityType.STAR]: '/pokemon-pocket-helper/icons/star.png',
-  [RarityType.CROWN]: '/pokemon-pocket-helper/icons/crown.png',
+  [RarityType.DIAMOND]: '/pokemon-tcg-pocket-deckmaster/icons/diamond.png',
+  [RarityType.STAR]: '/pokemon-tcg-pocket-deckmaster/icons/star.png',
+  [RarityType.CROWN]: '/pokemon-tcg-pocket-deckmaster/icons/crown.png',
 };
 
 const Rarity = ({ type, count }: Props) => {

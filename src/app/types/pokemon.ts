@@ -12,5 +12,5 @@ export type Pokemon = {
     count: number;
   };
   cardNumber: number;
-  booster: 'pikachu' | 'draceaufeu' | 'mewtwo';
+  pack: 'pikachu' | 'draceaufeu' | 'mewtwo';
 };
