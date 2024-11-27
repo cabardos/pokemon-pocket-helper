@@ -1,4 +1,4 @@
-# **Pokedex Genetic Apex**
+# **Pokemon Tcg Pocket Deckmaster**
 ![Screenshot 2024-11-25 at 18 36 46](https://github.com/user-attachments/assets/c95d6581-b62c-4891-a44e-f0e728b68be0)
 
 A modern web application for managing your Pokémon cards collection. Track your owned cards, identify missing ones, and get booster recommendations, all with a visually appealing and responsive interface.
