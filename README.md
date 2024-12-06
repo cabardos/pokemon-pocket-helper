@@ -67,8 +67,6 @@ https://cabardos.github.io/pokemon-tcg-pocket-deckmaster/
 
 - View which booster packs contain the most missing cards.
 
----
-
 ## **Project Structure**
 
 ```plaintext
